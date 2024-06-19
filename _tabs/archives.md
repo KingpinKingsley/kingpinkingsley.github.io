@@ -1,5 +1,5 @@
 ---
 layout: archives
-icon: fas fa-archive
+icon: fas fa-dice-d20
 order: 3
 ---
