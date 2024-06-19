@@ -1,25 +1,22 @@
 ---
-title: Arriving in Bryn Shander
-date: 2023-01-22 04:00:00 PM
-categories: [summary]
+title: 1 - Arriving in Bryn Shander
+date: 2023-01-22 16:00:00 +0500
+categories: [rotfm, summary]
 session: 1
-players: Niles, Jaeger, Backbreaker, Joyelle, Candor
-npc: Darryl, Nass, Hlin, Hruna
+players: [niles, jaeger, backbreaker, joyelle, candor]
+npc: [darryl, nass, hlin, hruna]
 in-game-day: 1
-tags: [summary, RotFM]
+tags: [niles, jaeger, backbreaker, joyelle, candor, darryl, nass, hlin, hruna]
 ---
 
-**Date:** January 22, 2023
+## Details
 
-**Session #:** 1
-
-**In-Game Days:** 1
-
-**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor
-
-**NPC(s):** Darryl, Nass, Hlin, Hruna
-
-**Location(s):** Bryn Shander
+**Date:** January 22, 2023 <br>
+**Session #:** 1 <br>
+**In-Game Days:** 1 <br>
+**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor <br>
+**NPC(s):** Darryl, Nass, Hlin, Hruna <br>
+**Location(s):** Bryn Shander <br>
 
 ## Synopsis
 - Riding in Darryl’s caravan delivering foodstuffs and supplies to Bryn Shander. Met Nass, the crazy girl who was excited to meet the group and was happy that we would “meet again”.

@@ -1,25 +1,22 @@
 ---
-title: Finding Missing Dwarves and Wares
-date: 2023-01-29 04:00:00 PM
-categories: [summary]
+title: 2 - Finding the Missing Dwarves
+date: 2023-01-29 16:00:00 +0500
+categories: [rotfm, summary]
 session: 2
-players: Niles, Jaeger, Backbreaker, Joyelle, Candor
-npc: Darryl, Nass, Hlin, Hruna
+players: [niles, jaeger, backbreaker, joyelle, candor]
+npc: [nass, avarice, dzaan, vellynne, hruna, storn, korux, oobok]
 in-game-day: 1-2
-tags: [summary, RotFM]
+tags: [niles, jaeger, backbreaker, joyelle, candor, nass, avarice, dzaan, vellynne, hruna, storn, korux, oobok]
 ---
 
-**Date:** January 29, 2023
+## Details
 
-**Session #:** 2
-
-**In-Game Days:** 1 - 2
-
-**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor
-
-**NPC(s):** Nass, Avarice, Dzaan, Vellynne, Hruna, Storn, Korux, Oobok (Deceased)
-
-**Location(s):** Bryn Shander and surrounding area
+**Date:** January 29, 2023 <br>
+**Session #:** 2 <br>
+**In-Game Days:** 1 - 2 <br>
+**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor <br>
+**NPC(s):** Nass, Avarice, Dzaan, Vellynne, Hruna, Storn, Korux, Oobok (Deceased) <br>
+**Location(s):** Bryn Shander and surrounding area <br>
 
 ## Synopsis
 - Overnight the party meets and decides to help the dwarves in the yeti problem over the murder mystery. The party will go out and locate the missing person, named Ubach. A “White dragon” was mentioned by Storn. He is convinced that there is a white dragon out in the wilderness.

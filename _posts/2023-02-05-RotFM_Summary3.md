@@ -1,25 +1,22 @@
 ---
-title: Finding Missing Dwarves and Wares
-date: 2023-01-29 04:00:00 PM
-categories: [summary]
+title: 3 - Intro to Chwinga Studies
+date: 2023-02-05 16:00:00 +0500
+categories: [rotfm, summary]
 session: 3
-players: Niles, Jaeger, Backbreaker, Joyelle, Candor
-npc: Darryl, Nass, Hlin, Hruna
+players: [niles, jaeger, backbreaker, joyelle, candor, velys]
+npc: [vellynne, sven, hruna]
 in-game-day: 2
-tags: [summary, RotFM]
+tags: [niles, jaeger, backbreaker, joyelle, candor, velys, vellynne, sven, hruna]
 ---
 
-**Date:** February 5, 2023
+## Details
 
-**Session #:** 3
-
-**In-Game Day(s):** 2
-
-**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor, Velys
-
-**NPC(s):** Vellynne, Sven, Hruna
-
-**Location(s):** Bryn Shander and the surrounding area
+**Date:** February 5, 2023 <br>
+**Session #:** 3 <br>
+**In-Game Day(s):** 2 <br>
+**Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor, Velys <br>
+**NPC(s):** Vellynne, Sven, Hruna <br>
+**Location(s):** Bryn Shander and the surrounding area <br>
 
 
 ## Synopsis
