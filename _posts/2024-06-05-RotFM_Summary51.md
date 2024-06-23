@@ -7,6 +7,7 @@ players: [niles, candor, joyelle, jaeger, backbreaker, velys]
 npc: [conor, ryker, sherlock gnomes]
 in-game-day: 40
 alias: Session 51
+description: Niles chooses his friend over his allies.
 tags: [niles, candor, joyelle, jaeger, backbreaker, velys, conor, ryker, sherlock gnomes]
 ---
 
