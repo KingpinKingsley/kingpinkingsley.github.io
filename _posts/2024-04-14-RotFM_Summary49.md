@@ -12,3 +12,11 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, velys, ryker, conor, mylbor]
 ---
 
 ## Details
+
+**Date:** April 14, 2024 <br>
+**Session #:** 49 <br>
+**In-Game Day(s):** 39 - 40 <br>
+**Player(s):** Backbreaker, Niles, Candor, Jaeger, Joyelle, Velys <br>
+**NPC(s):** Ryker, Conor, Mylbor <br>
+**Location(s):** Tower of Netheril, Caer-Konig, Bryn Shander
+

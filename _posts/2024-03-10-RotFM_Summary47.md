@@ -12,3 +12,11 @@ tags: [niles, candor, joyelle, backbreaker, dzaan, dzaan's simulacrum, krintaas]
 ---
 
 ## Details
+
+**Date:** 3/10/2024 <br>
+**Session #:** 47 <br>
+**In-Game Day(s):** 39 <br>
+**Player(s):** Niles, Joyelle, Backbreaker, Candor <br>
+**NPC(s):** Dzaan's Simulacrum, Krintaas <br>
+**Location(s):** Tower of Netheril
+

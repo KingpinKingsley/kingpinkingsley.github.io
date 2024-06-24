@@ -6,6 +6,8 @@ session: 2
 players: [niles, jaeger, backbreaker, joyelle, candor]
 npc: [nass, avarice, dzaan, vellynne, hruna, storn, korux, oobok]
 in-game-day: 1-2
+alias: Session 2
+description: Hruna asks the group to seek out her lost teammate, Oobok.
 tags: [niles, jaeger, backbreaker, joyelle, candor, nass, avarice, dzaan, vellynne, hruna, storn, korux, oobok]
 ---
 

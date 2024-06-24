@@ -1,12 +1,14 @@
 ---
 title: Letter to Mother 2
-date: 2023-02-12 16:00:00 +0500
+date: 2023-06-11 16:00:00 +0500
 categories: [rotfm, correspondence]
 tags: []
 description: Letters or missives Niles has written in the past.
 ---
 
 *Niles outlines what he wishes to include in letters in his journal, helping to paint a picture on what information he has sent during his time in the North. This outline seems to be dated around the time the party left East Haven (Session 21).*
+
+[Copy/Pasted the actual letter given to the DM instead of doing an outline.]
 
 To my dearest mother,
 

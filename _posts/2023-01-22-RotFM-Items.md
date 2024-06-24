@@ -4,7 +4,7 @@ date: 2023-01-22 16:00:00 +0500
 categories: [rotfm, items]
 tags: []
 description: A list of items that are relevant.
-pin: true
+pin: false
 ---
 
 ## Augur's Dagger

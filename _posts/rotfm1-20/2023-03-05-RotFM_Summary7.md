@@ -7,6 +7,7 @@ players: [niles, jaeger, backbreaker, joyelle, candor, mori]
 npc: [markham, keegan, hlin]
 in-game-day: [3,4]
 alias: Session 7
+description: Arriving in Targos, Backbreaker follows a distressed dog to its owner.
 tags: [niles, jaeger, backbreaker, joyelle, candor, mori, markham, keegan, hlin]
 ---
 

@@ -4,7 +4,7 @@ date: 2023-01-22 16:00:00 +0500
 categories: [rotfm, quests]
 tags: []
 description: A list of quests and rumors that will go unresolved.
-pin: true
+pin: false
 ---
 
 ## Cannibalism is In

@@ -6,6 +6,8 @@ session: 4
 players: [niles, jaeger, backbreaker, joyelle, candor]
 npc: [torrga, sephek, duvessa, markham]
 in-game-day: [2,3]
+alias: Session 4
+description: The hunt for the murderer begins, and everyone learns of Auril's sacrifices.
 tags: [niles, jaeger, backbreaker, joyelle, candor, torrga, sephek, duvessa, markham]
 ---
 

@@ -7,7 +7,8 @@ players: [niles, jaeger, candor, joyelle, backbreaker, mori, gaspard]
 npc: [dredavex, alien crew, childlike aberrations, jaeger's father]
 in-game-day: [16,17]
 alias: Session 24
-tags: [niles, jaeger, candor, joyelle, velys, backbreaker, gaspard, mori dredavex]
+description: Niles is careful not to upset his friends further, and Mori finds his calling.
+tags: [niles, jaeger, candor, joyelle, velys, backbreaker, gaspard, mori, dredavex]
 ---
 
 ## Details
@@ -53,7 +54,7 @@ Meanwhile, Joyelle has cast Moonbeam on the monster and is the only one to do la
 
 Ending the skirmish, a new entity floats down the stairs and all the monsters settle down at its presence. Backbreaker is the only one who can understand the language being spoken by this figure, which is Deep Speech. It ushers the small aberrations upstairs to their other parent before conversing with Backbreaker. After a time, Backbreaker relays the information to the party:
 - The entity’s name is Dredavax and this is their ship, crew, and the small aberrations are implied to be their children
-- They need Psi crystals to fuel their ship, which is currently without power [^3][^4]
+- They need Psi crystals to fuel their ship, which is currently without power [^3]  [^4]
 - There is a dire need to find a means to keep them warm, and they ask for assistance in discovering a way to not freeze in the harsh cold [^5]
 
 Assuming that he knows what Psi Crystals are, Niles takes the chardalyn out of his pocket and slides it across the floor to Dredavex. After a moment, Dredavex confirms (via Backbreaker) that the chardalyn is not what they are seeking, but it will be kept for research.
@@ -72,8 +73,8 @@ Being shown the Psi Crystal brings up the conversation of how to find them in th
 ## Notes
 N/A
 
-[^1]: Niles's Apology Letter to Jaeger <br>
-[^2]: Shooting Star Quest and Rumor <br>
-[^3]: Psi Crystal <br>
-[^4]: Psych Crystals Quest and Rumor <br>
-[^5]: Otherworldly Chill Quest and Rumor
+[^1]:  Niles's Apology Letter to Jaeger <br>
+[^2]:  Shooting Star Quest and Rumor <br>
+[^3]:  Psi Crystal <br>
+[^4]:  Psych Crystals Quest and Rumor <br>
+[^5]:  Otherworldly Chill Quest and Rumor

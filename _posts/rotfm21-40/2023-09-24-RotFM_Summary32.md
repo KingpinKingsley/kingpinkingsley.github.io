@@ -12,11 +12,11 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, velys]
 
 ## Details
 
-**Date:** September 24, 2023
-**Session #:** 32
-**In-Game Day(s):** 18
-**Player(s):** Jaeger, Backbreaker, Joyelle, Candor, Niles, Velys
-**NPC(s):** Duergar Enemies
+**Date:** September 24, 2023 <br>
+**Session #:** 32 <br>
+**In-Game Day(s):** 18 <br>
+**Player(s):** Jaeger, Backbreaker, Joyelle, Candor, Niles, Velys <br>
+**NPC(s):** Duergar Enemies <br>
 **Location(s):** Sunblight Stronghold
 
 ## Synopsis

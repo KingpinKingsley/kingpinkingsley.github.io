@@ -7,6 +7,7 @@ players: [niles, jaeger, backbreaker, joyelle, candor, gaspard]
 npc: [garret, akannathi, perilou, astrix, blue boots]
 in-game-day: 5
 alias: Session 9
+description: All members of the expedition are found, and Jaeger is irresponsible.
 tags: [niles, jaeger, backbreaker, joyelle, candor, gaspard, garret, akannathi, perilou, astrix, blue boots]
 ---
 

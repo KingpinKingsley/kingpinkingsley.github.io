@@ -8,6 +8,8 @@ description: Letters or missives Niles has written in the past.
 
 *Niles outlines what he wishes to include in letters in his journal, helping to paint a picture on what information he has sent during his time in the North. This letter was most likely sent while the murder investigation was occuring (Session 4).*
 
+[Copy/Pasted the actual letter given to the DM instead of doing an outline.]
+
 To my dearest Mother,
 
 I am sending this letter to confirm my arrival in the north to the town of Bryn Shander, as you requested prior to my departure from home. There were minimal disturbances on the road to this location. We arrived two days ago and I have suitable living quarters for the next few days. The Inn my group and I chose is unappealing and completely run down but it beats sleeping 

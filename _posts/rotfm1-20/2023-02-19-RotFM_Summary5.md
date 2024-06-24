@@ -6,6 +6,8 @@ session: 5
 players: [niles, jaeger, backbreaker, joyelle, candor]
 npc: [sephek, markham, copper, sanders colonel, wendy davis, ronaldo donalmax, nass, mishann, avarice]
 in-game-day: 3
+alias: Session 5
+description: The party further investigates the murders taking place across the Ten Towns.
 tags: [niles, jaeger, backbreaker, joyelle, candor, sephek, markham, copper, sanders colonel, wendy davis, ronaldo donalmax, nass, mishann, avarice]
 ---
 

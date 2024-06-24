@@ -7,12 +7,13 @@ players: [niles, jaeger, backbreaker, joyelle, candor, mori]
 npc: [sephek, torrga]
 in-game-day: 3
 alias: Session 6
+description: Mori joins the party, and the murderer is confronted.
 tags: [niles, jaeger, backbreaker, joyelle, candor, mori, sephek, torrga]
 ---
 
 ## Details
 
-**Date:** February 26, 2023 <br.>
+**Date:** February 26, 2023 <br>
 **Session #:** 6 <br>
 **In-Game Day(s):** 3 <br>
 **Player(s):** Jaeger, Niles, Backbreaker, Joyelle, Candor, Mori <br>

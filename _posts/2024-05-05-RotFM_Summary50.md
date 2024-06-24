@@ -12,3 +12,11 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, sherlock gnomes, torrga, ryk
 ---
 
 ## Details
+
+**Date:** May 5, 2024 <br>
+**Session #:** 50 <br>
+**In-Game Day(s):** 40 <br>
+**Player(s):** Niles, Jaeger, Backbreaker, Joyelle, Candor <br>
+**NPC(s):** Sherlock Gnomes, Torrga, Ryker <br>
+**Location(s):** Northern Wilderness
+

@@ -1,5 +1,5 @@
 ---
-title: 40 - Entering Grymskalle
+title: 40 - Entering Grimskalle
 date: 2023-12-23 16:00:00 +0500
 categories: [rotfm, summary]
 session: 40
@@ -7,16 +7,17 @@ players: [niles, candor, joyelle, jaeger]
 npc: [nass, söpo, ukuma]
 in-game-day: [25,26]
 alias: Session 40
+description: The party learns what Vellynne and Nass were after, and later enter Grimskalle.
 tags: [niles, candor, joyelle, jaeger, nass, söpo, ukuma]
 ---
 
 ## Details
 
-**Date:** December 23, 2023
-**Session #:** 40
-**In-Game Day(s):** 25 - 26
-**Player(s):** Niles, Jaeger, Candor, Joyelle
-**NPC(s):** Nass, Söpo, Ukuma
+**Date:** December 23, 2023 <br>
+**Session #:** 40 <br>
+**In-Game Day(s):** 25 - 26 <br>
+**Player(s):** Niles, Jaeger, Candor, Joyelle <br>
+**NPC(s):** Nass, Söpo, Ukuma <br>
 **Location(s):** Isle of Solstice
 
 ## Synopsis

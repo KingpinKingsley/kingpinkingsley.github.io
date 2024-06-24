@@ -8,6 +8,8 @@ description: Letters or missives Niles has written in the past.
 
 *Niles outlines what he wishes to include in letters in his journal, helping to paint a picture on what information he has sent during his time in the North. This letter was most likely sent while the murder investigation was occuring (Session 4).*
 
+[Copy/Pasted the actual letter given to the DM instead of doing an outline.]
+
 To our most honorable Grandfather:
 
 Greetings from Bryn Shander. Our caravan arrived two days ago with supplies for the locals. The journey itself from the Harper guild to this location was obnoxiously long and less exciting than what I’d hoped. The wintry climate in these lands is like what we are used to dealing with on a daily occurrence, but the travel is a bit trickier as the paths here are not as maintained as ours.

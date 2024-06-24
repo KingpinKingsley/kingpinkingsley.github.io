@@ -7,6 +7,7 @@ players: [niles, candor, joyelle, jaeger, backbreaker]
 npc: [nass]
 in-game-day: 26
 alias: Session 41
+description: The party must preserve the life of a child as a test from Auril.
 tags: [niles, candor, joyelle, jaeger, backbreaker, nass]
 ---
 

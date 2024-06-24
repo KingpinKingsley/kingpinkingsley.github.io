@@ -6,6 +6,8 @@ session: 1
 players: [niles, jaeger, backbreaker, joyelle, candor]
 npc: [darryl, nass, hlin, hruna]
 in-game-day: 1
+alias: Session 1
+description: The party arrives to Bryn Shander and the campaign begins.
 tags: [niles, jaeger, backbreaker, joyelle, candor, darryl, nass, hlin, hruna]
 ---
 

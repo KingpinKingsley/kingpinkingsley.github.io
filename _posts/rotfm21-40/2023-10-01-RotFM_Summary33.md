@@ -12,11 +12,11 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, velys, xardorok, klondorn, f
 
 ## Details
 
-**Date:** October 1, 2023
-**Session #:** 33
-**In-Game Day(s):** 18
-**Player(s):** Niles, Jaeger, Backbreaker, Candor, Joyelle, Velys
-**NPC(s):** Xardorok, Klondorn, F'yorl, Pleurota, Duergar Enemies
+**Date:** October 1, 2023 <br>
+**Session #:** 33 <br>
+**In-Game Day(s):** 18 <br>
+**Player(s):** Niles, Jaeger, Backbreaker, Candor, Joyelle, Velys <br>
+**NPC(s):** Xardorok, Klondorn, F'yorl, Pleurota, Duergar Enemies <br>
 **Location(s):** Sunblight Stronghold
 
 ## Synopsis

@@ -6,6 +6,8 @@ session: 3
 players: [niles, jaeger, backbreaker, joyelle, candor, velys]
 npc: [vellynne, sven, hruna]
 in-game-day: 2
+alias: Session 3
+description: Vellynne asks for a favor, and Candor injures a Chwinga.
 tags: [niles, jaeger, backbreaker, joyelle, candor, velys, vellynne, sven, hruna]
 ---
 

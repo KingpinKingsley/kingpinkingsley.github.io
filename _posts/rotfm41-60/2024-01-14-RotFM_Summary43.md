@@ -7,6 +7,7 @@ players: [niles, candor, joyelle, jaeger, backbreaker, velys]
 npc: [nass, svilbrekhild]
 in-game-day: [33,34,35]
 alias: Session 43
+description: Niles reflects on what his party has become after the Trial of Isolation.
 tags: [niles, candor, joyelle, jaeger, backbreaker, velys, nass, svilbrekhild]
 ---
 

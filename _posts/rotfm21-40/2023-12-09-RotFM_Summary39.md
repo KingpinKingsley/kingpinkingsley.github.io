@@ -12,11 +12,11 @@ tags: [niles, candor, joyelle, jaeger, nass, söpo]
 
 ## Details
 
-**Date:** December 9, 2023
-**Session #:** 39
-**In-Game Day(s):** 25
-**Player(s):** Niles, Jaeger, Candor, Joyelle
-**NPC(s):** Nass, Söpo
+**Date:** December 9, 2023 <br>
+**Session #:** 39 <br>
+**In-Game Day(s):** 25 <br>
+**Player(s):** Niles, Jaeger, Candor, Joyelle <br>
+**NPC(s):** Nass, Söpo <br>
 **Location(s):** Isle of Solstice
 
 ## Synopsis

@@ -7,6 +7,7 @@ players: [niles, candor, joyelle, jaeger, backbreaker, velys]
 npc: [nass]
 in-game-day: [26,27,28,29,30,31,32,33]
 alias: Session 42
+description: Niles desperately tries to save his friends from the unknown.
 tags: [niles, candor, joyelle, jaeger, backbreaker, velys, nass]
 ---
 

@@ -7,6 +7,7 @@ players: [niles, jaeger, backbreaker, joyelle, candor, mori]
 npc: [vernon, garret, marta]
 in-game-day: [4,5]
 alias: Session 8
+description: The rescue of expeditioners at Kelvin's Cairn, and Backbreaker tanks an avalanche.
 tags: [niles, jaeger, backbreaker, joyelle, candor, mori, vernon, garret, marta]
 ---
 

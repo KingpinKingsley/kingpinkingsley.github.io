@@ -1,6 +1,6 @@
 ---
 title: 25 - Sunblight Stronghold
-date: 2023-06-04 16:00:00 +0500
+date: 2023-07-09 16:00:00 +0500
 categories: [rotfm, summary]
 session: 25
 players: [niles, candor, joyelle, mori, backbreaker]
