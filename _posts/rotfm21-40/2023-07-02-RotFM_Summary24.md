@@ -8,7 +8,7 @@ npc: [dredavex, alien crew, childlike aberrations, jaeger's father]
 in-game-day: [16,17]
 alias: Session 24
 description: Niles is careful not to upset his friends further, and Mori finds his calling.
-tags: [niles, jaeger, candor, joyelle, velys, backbreaker, gaspard, mori, dredavex]
+tags: [niles, jaeger, candor, joyelle, backbreaker, gaspard, mori, dredavex]
 ---
 
 ## Details

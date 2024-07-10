@@ -13,29 +13,45 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, velys, nass]
 
 ## Details
 
-**Date:** January 7, 2024
-**Session #:** 42
-**In-Game Day(s):** 26 - 33
-**Player(s):** Niles, Jaeger, Candor, Joyelle, Velys, Backbreaker
-**NPC(s):** Nass
+**Date:** January 7, 2024 <br>
+**Session #:** 42 <br>
+**In-Game Day(s):** 26 - 33 <br>
+**Player(s):** Niles, Jaeger, Candor, Joyelle, Velys, Backbreaker <br>
+**NPC(s):** Nass <br>
 **Location(s):** Isle of Solstice
 
 ## Synopsis
-The tribe members within the test see the snowflakes lingering above the heads of the party upon entry and lead the party to their queen. At the audience, she thanks the party for their attendance and the blessings that come with their presence as Auril's emissaries.
+Upon entering the camp, the tribe members noticed the snowflakes lingering above the heads of the party, an omen of their arrival. They led the group through the bustling camp to their queen, who awaited them in her grand tent. The queen, a figure of regal authority, thanked the party for their attendance and the blessings they brought as emissaries of Auril.
 
-This is another Reghed tribe, the Tiger, and they will soon leave their camp to raid the members of the Elk tribe in the hopes of stealing food to stave off starvation. The party is expected to watch the camp while they are away.
+This was the Tiger tribe, a fierce and proud group. They were preparing to leave their camp on a raid against the Elk tribe, driven by desperation to steal food and stave off starvation. The queen entrusted the party with the critical task of watching over the camp during their absence.
 
-Once the queen and her tribe leave, several days pass until their return. The events go as follows:
-- On the first day, the tribe leaves for their mission and the party explores the camp. At night, Backbreaker (typical) is the first to go missing.
-- On the second day, everyone searches for the missing barbarian. At night and alone, Niles stands guard over the party and leans heavily into his Penguin-Batman Gloomstalker fursona. No one goes missing.
-- On the third day, Niles became nocturnal. At night, Jaeger agrees to be useful by being bait while Niles keeps watch over him and the party from the shadows. Nass goes missing without anyone noticing.
-- On the fourth day, the party brainstorms on how to prevent each other from going missing. At night, everyone rests within the same tent while Niles and Jaeger stay up again to keep watch. At some point Jaeger disappears, and Niles can’t remember when Jaeger vanished.
-- On the fifth day, Velys and Joyelle attempt to help Niles remember what happened to Jaeger but can’t overcome Auril’s magic. At night, Niles keeps watch again, but Joyelle is then taken.
-- On the sixth day, Velys tries again to help Niles remember, but still can’t overcome Auril’s magic. At night, Niles keeps guard once again, but Velys is taken.
-- On the seventh day, Niles gives up on keeping watch for the entity since there is no one left. At night, he sleeps alone by a dimming fire, waiting for the entity to take him.
-- On the eighth day, the tribe returns from their mission and the party is reunited. Everyone in the party is almost fine. No one has been traumatized at all.
+As the tribe departed, the days began to unfold in a series of strange and unsettling events:
 
-By the end of the ordeal, everyone except for Niles has two levels of exhaustion--and those with exhaustion, aside from Joyelle, have a form of Indefinite Madness as a punishment for failing the trial. When Niles goes to check on everyone before leaving the trial, Jaeger's eyes are filled with rage.
+*Day One:*
+The tribe left for their mission, and the party took the opportunity to explore the camp. That night, Backbreaker was the first to vanish, his absence a silent, ominous prelude to the trials ahead.
+
+*Day Two:*
+Everyone searched the camp in vain for Backbreaker. That night, Niles stood guard, utilizing his Gloomstalker knowledge, vigilant and alone. The night passed uneventfully, a deceptive calm.
+
+*Day Three:*
+Niles had become nocturnal, his senses honed for the darkness. Jaeger offered himself as bait, with Niles watching over him from the shadows. Despite their precautions, Nass vanished without a trace, slipping away unnoticed.
+
+*Day Four:*
+Desperation set in as the party brainstormed ways to prevent further disappearances. They all huddled in the same tent that night, with Niles and Jaeger keeping watch. Yet, at some point, Jaeger vanished, and Niles couldn’t remember when or how he disappeared.
+
+*Day Five:*
+Velys and Joyelle attempted to help Niles recall what happened to Jaeger, but Auril’s magic shrouded his memory. That night, Niles kept watch again, but Joyelle was taken, leaving them one step closer to despair.
+
+*Day Six:*
+Velys tried once more to help Niles, but the veil of Auril’s magic remained impenetrable. Niles stood guard again that night, only for Velys to disappear into the darkness.
+
+*Day Seven:*
+With everyone else gone, Niles gave up on his vigil. Alone by a dimming fire, he awaited his fate, resigned to being the entity’s next victim.
+
+*Day Eight:*
+The tribe returned from their mission, and miraculously, the party was reunited. Everyone seemed outwardly fine, yet a lingering shadow of their ordeal clung to them. The toll of the trial was evident: all but Niles suffered two levels of exhaustion, and most, except for Joyelle, bore the marks of Indefinite Madness as a punishment for their failure.
+
+As Niles went to check on his companions before leaving the trial, he saw the rage burning in Jaeger’s eyes, a silent testament to the deep scars left by their harrowing experience. The party had survived, but they emerged forever changed, haunted by the shadows of the trial they had endured.
 
 ## Notes
 - Jaeger, Candor/Nass, Velys, and Backbreaker all fail a DC 15 wisdom check to avoid gaining indefinite madness.

@@ -13,23 +13,23 @@ tags: [niles, candor, joyelle, jaeger, backbreaker, nass]
 
 ## Details
 
-**Date:** December 30, 2023
-**Session #:** 41
-**In-Game Day(s):** 26
-**Player(s):** Niles, Jaeger, Backbreaker, Candor, Joyelle
-**NPC(s):** Nass, Child Heir, Messenger Wolf
+**Date:** December 30, 2023 <br>
+**Session #:** 41 <br>
+**In-Game Day(s):** 26 <br>
+**Player(s):** Niles, Jaeger, Backbreaker, Candor, Joyelle <br>
+**NPC(s):** Nass, Child Heir, Messenger Wolf <br>
 **Location(s):** Isle of Solstice
 
 ## Synopsis
-The party undertakes the Trial of Preservation.
+The Trial of Preservation unfolded with chilling intensity as Auril's magic whisked the party away to a desolate, snow-covered battlefield. Amidst the aftermath of a recent massacre, Niles and Backbreaker stumbled upon a lone child, sobbing amidst the devastation. Backbreaker's attempts to console the boy failed, prompting him to gently scoop up the child and carry him back to safety with the rest of the group.
 
-Auril’s magic transports the party to an artic land where a battle was recently fought. There doesn’t appear to be any survivors until Niles and Backbreaker wander to a tent where they find a crying child who has survived the massacre. As soon as they take him back to the group, in the distance a man begins to make the sounds of a wolf—trying to lure out the child. Niles and Backbreaker hide the child in a nearby tent before the man comes into vision, attacking the party after Nass reads his mind to learn that he wants to kill the child.
+Their moment of relief shattered when distant wolf-like howls pierced the air, signaling an approaching threat. Acting swiftly, Niles and Backbreaker hid the child in a nearby tent just as a menacing figure emerged, intent on harming the vulnerable survivor. Nass, delving into the assailant's mind, revealed his murderous intentions towards the child, igniting a brutal battle for survival.
 
-The test forces the group to fight the assailant to the death.
+The party rallied against the attacker, Niles bravely positioning himself as a shield at the tent's entrance to protect the child. Blow after blow rained down upon him until he fell unconscious, his sacrifice pivotal in preventing harm to the boy. Joyelle's healing hands revived Niles after the skirmish.
 
-After the battle is over, a giant wolf walks to the outskirts and asks the party to let it take the boy to safety. Once the party lets the wolf take the boy, the test ends and the party is transported back to the main chamber in the basement of Auril’s fortress.
+As tension ebbed, a majestic wolf approached, speaking in a voice that resonated within their minds. The creature, offering safety for the child, signaled the trial's end. With heavy hearts and wary relief, the party agreed to entrust the child's future to the wolf, its solemn departure marking the conclusion of their harrowing test.
 
-After a short rest, the group then decides to do the Trial of Isolation next.
+After regrouping and catching their breath, the party resolved to face the Trial of Isolation next, steeling themselves for the challenges ahead within Auril's unforgiving fortress.
 
 ## Notes
 Largely a combat session.

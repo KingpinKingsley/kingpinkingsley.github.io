@@ -3,11 +3,11 @@ title: 14 - Raiding the Bunker
 date: 2023-04-23 16:00:00 +0500
 categories: [rotfm, summary]
 session: 14
-players: [niles, jaeger, backbreaker, candor, joyelle, mori]
+players: [niles, jaeger, backbreaker, candor, joyelle, mori, gaspard]
 npc: [avarice, hethyl, kadroth, lucky peet, crannoc]
 in-game-day: 10
 alias: Session 14
-tags: [niles, jaeger, backbreaker, candor, joyelle, mori]
+tags: [niles, jaeger, backbreaker, candor, joyelle, mori, gaspard]
 ---
 
 ## Details
