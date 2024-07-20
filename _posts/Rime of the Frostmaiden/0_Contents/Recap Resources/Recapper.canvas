@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"![[Recap (18 - )#Recap 26]]","id":"aa42239717aade27","x":-1400,"y":-600,"width":380,"height":760},
+		{"type":"text","text":"![[Recap Frontmatter]]","id":"00b03acea4491910","x":-1020,"y":-600,"width":600,"height":500},
+		{"type":"text","text":"# Note\n- The Duergar speak Dwarvish and Undercommon.\n- Xardorok is in one of a few places: throne, worshipping deity, or torturing someone. There may be another possible location.\n- Two factions: Loyalists vs Rebels. Loyalists are the enemies killed by the party when first entering the stronghold.","id":"6bf6cf5c618d0af9","x":-1020,"y":-100,"width":600,"height":260}
+	],
+	"edges":[]
+}

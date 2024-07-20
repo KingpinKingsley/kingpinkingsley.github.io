@@ -1,0 +1,1079 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": false,
+      "lastAccessed": 1688775873145,
+      "markers": [
+        {
+          "id": "ID_3b5b6a78cb19",
+          "type": "Location of Interest",
+          "loc": [
+            11.203125,
+            33.35939045499505
+          ],
+          "link": "Dredavex's Ship",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7116669963732277,
+            -0.3402135231316726
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbc89919a96b",
+          "type": "Dungeon",
+          "loc": [
+            12.71875,
+            38.654137817342566
+          ],
+          "link": "Sunblight Stronghold",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            3.298486427079899,
+            -1.544958481613286
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89baf8aaeb0a",
+          "type": "Known Location",
+          "loc": [
+            21.65625,
+            32.3771018793274
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.762846027035938,
+            -2.6306049822064055
+          ],
+          "description": "A large hill with stones. Observed as the party passed by on their way to Sunblight Stronghold.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb484a99f9ca",
+          "type": "Town",
+          "loc": [
+            22.609375,
+            33.00000569222857
+          ],
+          "link": "Dougan's Hole",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7040001214342094,
+            -0.6865954922894425
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebf8491ad869",
+          "type": "Town",
+          "loc": [
+            32.09375,
+            26.124371496867788
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.2292797010660514,
+            -3.8984578884934757
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bba380a2be9",
+          "type": "Town",
+          "loc": [
+            36.875,
+            32.56115026376525
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.778551489174635,
+            -4.479240806642942
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8ebd93a8b59",
+          "type": "Dungeon",
+          "loc": [
+            28.375,
+            42.87952316188592
+          ],
+          "link": "The Ferry Hideout",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            3.6590526431475987,
+            -3.4467378410438907
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9791a29db68",
+          "type": "Town",
+          "loc": [
+            24.5390625,
+            36.687497153885715
+          ],
+          "link": "Good Mead",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7826666059495619,
+            -0.7451957295373666
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97a684b2958",
+          "type": "Town",
+          "loc": [
+            26.5625,
+            43.84372939333993
+          ],
+          "link": "Easthaven",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9353328937245852,
+            -0.8066429418742586
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbe9a829397a",
+          "type": "Dungeon",
+          "loc": [
+            29.21875,
+            49.00004553782854
+          ],
+          "link": "Maud's Cave",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.045334304807009,
+            -0.8873072360616845
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_397bc98afa59",
+          "type": "Town",
+          "loc": [
+            31.75,
+            44.24999430777143
+          ],
+          "link": "Caer-Dineval",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9439998785657905,
+            -0.9641755634638197
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dacb8af80a8a",
+          "type": "Town",
+          "loc": [
+            35.125,
+            46.74998861554286
+          ],
+          "link": "Caer-Konig",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9973330904649144,
+            -1.0666666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8bbcb5b18f8",
+          "type": "Dungeon",
+          "loc": [
+            37.6875,
+            43.76560439333993
+          ],
+          "link": "Duergar Bunker",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9336662270579185,
+            -1.1444839857651246
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b4948684b2a",
+          "type": "Location of Interest",
+          "loc": [
+            39.0030517578125,
+            43.11564200049456
+          ],
+          "link": "Kelvin's Cairn",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39fb5ac859e9",
+          "type": "Location of Interest",
+          "loc": [
+            41.5546875,
+            36.28121393834488
+          ],
+          "link": "Black Cabin",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7739992306846907,
+            -1.2619217081850533
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bfae82a2a38",
+          "type": "Town",
+          "loc": [
+            28.4375,
+            30.375011384457135
+          ],
+          "link": "Bryn Shander",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6480002428684188,
+            -0.863582443653618
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a18a8aae88b",
+          "type": "Town",
+          "loc": [
+            30.5625,
+            27.46875
+          ],
+          "link": "Targos",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.586,
+            -0.9281138790035587
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab180b9b799b",
+          "type": "Town",
+          "loc": [
+            35.40625,
+            34.40625569222857
+          ],
+          "link": "Termalaine",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7340001214342095,
+            -1.0752075919335706
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -4.907440185546875,
+              "lng": 5.46400274068579,
+              "id": "ID_093bf9980aaa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.932830810546875,
+              "lng": 5.413204747774481,
+              "id": "ID_ab2bd8a90838",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.952362060546875,
+              "lng": 5.358499216946917,
+              "id": "ID_094a295a5a6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.954315185546875,
+              "lng": 5.305747455077481,
+              "id": "ID_5a5a997b68b8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.936737060546875,
+              "lng": 5.258857000082426,
+              "id": "ID_9b99884b699b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.917205810546875,
+              "lng": 5.2158740830036265,
+              "id": "ID_fbcb2b2a7a68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.923065185546875,
+              "lng": 5.159214783217936,
+              "id": "ID_3bcb7a88fb7a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.930877685546875,
+              "lng": 5.116231866139136,
+              "id": "ID_9baa187b8b5a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.913299560546875,
+              "lng": 5.075202718018463,
+              "id": "ID_4b7a7a78d898",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.899627685546875,
+              "lng": 5.043942414688427,
+              "id": "ID_6ab88b581a29",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.899627685546875,
+              "lng": 4.9990057286515,
+              "id": "ID_bb0b497b0b6a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.887908935546875,
+              "lng": 4.950161504698318,
+              "id": "ID_f81968e928da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.866424560546875,
+              "lng": 4.911086125535773,
+              "id": "ID_9b0ab88b8b58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.846893310546875,
+              "lng": 4.879825822205737,
+              "id": "ID_bae8c8885bdb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.827362060546875,
+              "lng": 4.846611749917573,
+              "id": "ID_485bab09c8eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.821502685546875,
+              "lng": 4.795813757006265,
+              "id": "ID_7a683bf82acb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.803924560546875,
+              "lng": 4.721570536597428,
+              "id": "ID_d9aa9b8bda78",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.788299560546875,
+              "lng": 4.6551423920211015,
+              "id": "ID_3a3af88ba8ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.768768310546875,
+              "lng": 4.578945402654138,
+              "id": "ID_c9ebcba8bbd8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.768768310546875,
+              "lng": 4.518378564952193,
+              "id": "ID_aa29a8e99b0a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.753143310546875,
+              "lng": 4.463673034124629,
+              "id": "ID_8b1a5ae91ac8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.737518310546875,
+              "lng": 4.410921272255193,
+              "id": "ID_5a6b593b4a38",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.723846435546875,
+              "lng": 4.34840066559512,
+              "id": "ID_5a19f8e949fa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.710174560546875,
+              "lng": 4.301510210600066,
+              "id": "ID_19abfb582a9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.706268310546875,
+              "lng": 4.231174528107484,
+              "id": "ID_6b19693bfb09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.708221435546875,
+              "lng": 4.18428407311243,
+              "id": "ID_d81948186819",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.731658935546875,
+              "lng": 4.129578542284866,
+              "id": "ID_a8781bfa09b8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.737518310546875,
+              "lng": 4.090503163122321,
+              "id": "ID_494a8849d9ba",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.706268310546875,
+              "lng": 4.053381552917903,
+              "id": "ID_3a8a1bbb0bc8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.696502685546875,
+              "lng": 4.016259942713485,
+              "id": "ID_bb698b18098b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.721893310546875,
+              "lng": 3.994768484174085,
+              "id": "ID_cad9ba9aca0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.727752685546875,
+              "lng": 3.9752307945928123,
+              "id": "ID_9b1b786bc869",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.696502685546875,
+              "lng": 3.957646873969667,
+              "id": "ID_aab95aea8b58",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.673065185546875,
+              "lng": 3.9420167223046487,
+              "id": "ID_2b392829b92a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.675018310546875,
+              "lng": 3.900987574183976,
+              "id": "ID_78b96b498a8b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.676971435546875,
+              "lng": 3.86972727085394,
+              "id": "ID_0899cb2929a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.657440185546875,
+              "lng": 3.842374505440158,
+              "id": "ID_bbf90a59abb9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.659393310546875,
+              "lng": 3.8247905848170127,
+              "id": "ID_0afb8ae87bc9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#ffec1a",
+          "vertices": [
+            {
+              "lat": 22.609375,
+              "lng": 33.00000569222857,
+              "id": "ID_cac98b8a1bf9",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_cb484a99f9ca"
+              }
+            },
+            {
+              "lat": 23.1796875,
+              "lng": 33.46093892305714,
+              "id": "ID_69d99baba97a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 23.7109375,
+              "lng": 33.91405680777143,
+              "id": "ID_e8fad839d8b9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 24.0390625,
+              "lng": 34.44529969248572,
+              "id": "ID_8bdb0a290959",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 24.2578125,
+              "lng": 34.960923269428584,
+              "id": "ID_e8698aea292a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 24.3984375,
+              "lng": 35.54687926917143,
+              "id": "ID_d9eb281a299b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 24.4921875,
+              "lng": 36.14061788471429,
+              "id": "ID_c8e9985938da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 24.5390625,
+              "lng": 36.687497153885715,
+              "id": "ID_6b78f9784b99",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_b9791a29db68"
+              }
+            },
+            {
+              "lat": 24.5390625,
+              "lng": 36.687497153885715,
+              "id": "ID_7b3928688a9a",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_b9791a29db68"
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "north-map",
+      "locked": true,
+      "lastAccessed": 1720486440028,
+      "markers": [
+        {
+          "id": "ID_b8dbbbe9894a",
+          "type": "Dungeon",
+          "loc": [
+            29.5,
+            48.953142793618426
+          ],
+          "link": "Maud's Cave",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5221668564652632,
+            -0.4479240806642942
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89abea881a4a",
+          "type": "Location of Interest",
+          "loc": [
+            28.3359375,
+            42.93359286031908
+          ],
+          "link": "The Ferry Hideout",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.915916647686807,
+            -0.8604982206405694
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a699958da6a",
+          "type": "Known Location",
+          "loc": [
+            22.01041603088379,
+            32.39584747437109
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3455557063932916,
+            -0.334203232734653
+          ],
+          "description": "Large hill with stones near the outskirts of Good Mead.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38e9faf92bdb",
+          "type": "Quest",
+          "loc": [
+            26.46875,
+            44.84375
+          ],
+          "link": "Dzaan's Last Days",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47833333333333333,
+            -0.4018979833926453
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86818284a69",
+          "type": "Known Location",
+          "loc": [
+            36.40625,
+            33.68742882552628
+          ],
+          "link": "Lonely Caves",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.35933257413894704,
+            -0.5527876631079478
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1b48f908bb",
+          "type": "Quest",
+          "loc": [
+            35.75,
+            35.28122864765788
+          ],
+          "link": "Psych Crystals",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3763331055750174,
+            -0.5428232502965599
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "0_Contents/Map of The North.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#990000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Known Location",
+      "iconName": "question",
+      "color": "#707aff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Quest",
+      "iconName": "exclamation",
+      "color": "#2ccb2a",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Location of Interest",
+      "iconName": "star",
+      "color": "#fcfe62",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Anchor",
+      "iconName": "anchor",
+      "color": "#ff99e9",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[TenTowns.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[TenTowns.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 7,
+    "minZoom": 4,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "north-map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        65.859375,
+        93.75
+      ]
+    ],
+    "width": "95%",
+    "lat": 24,
+    "long": 38,
+    "zoomdelta": 0.5,
+    "unit": "mile",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

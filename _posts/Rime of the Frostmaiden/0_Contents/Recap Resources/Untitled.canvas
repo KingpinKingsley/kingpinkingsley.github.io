@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"\n```dataview\nTABLE quest-giver AS \"Quest NPC\"\nFROM \"Quests/Other Quests\"\nWHERE status = \"In-progress\"\nSORT file.name ASC\n```","id":"f9f32dadb01a6bf1","x":-340,"y":-740,"width":360,"height":280},
+		{"type":"text","text":"\n```dataview\nTABLE date AS Date\nFROM \"Session Notes\"\nSORT session DESC\nLIMIT 5\n```","id":"7a0490a22440b588","x":40,"y":-740,"width":660,"height":280},
+		{"type":"text","text":"\n```dataview\nTABLE status AS Status\nFROM \"Characters/NPCs\"\nWHERE current-location = \"Sunblight Stronghold\"\nSORT file.name ASC\n```","id":"69f084ef91bcd897","x":-720,"y":-740,"width":360,"height":280}
+	],
+	"edges":[]
+}

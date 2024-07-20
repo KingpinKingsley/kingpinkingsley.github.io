@@ -21,13 +21,15 @@ tags: [niles, jaeger, backbreaker, joyelle, candor, torrga, sephek, duvessa, mar
 **Location(s):** Bryn Shander and the surrounding area <br>
 
 ## Synopsis
-- The group returns the Chwinga to the clearing in the woods after Niles is able to make contact with it.  It runs off into the woods.
-- In the morning Niles sends his letters to his family then goes to breakfast with the others. They hear rumors going around the town, and asks whether the group has gleaned anything pertaining to the murders that Hlin mentioned. Hlin told them that the Stanch Co (green bear on a yellow background) or Torg (golden wolf’s paw on a black background) guild are possibly where the killer is.
-- The group decides to split up and talk to each guild separately. Niles and Jaeger to Torg, and Velys and Backbreaker to Stanch.
-- Niles and Jaeger speak to a Dwarven woman. The dwarven woman named Torrga. She is an independent operator and owns Torg Co. Niles tells her the story of a golden fish and she is interested in hearing more. He is successful in getting her trust and asks questions about the merchant group. Tomorrow they’ll be heading towards Lac Dinneshere as part of their travels around the north.
-- Duvessa Shane, the speaker. After meeting up again the group decides to go to the guard headquarters and speak to Markham Southwell, the head of the guard/militia for Bryn Shander.
-- Appease Auril via Sacrifices. And murders from unknown person. There were no murders before the sacrifices to Auril started. The murders also occur in specific towns. The murders are only happening in the three largest towns. Follows of Auril believe that the greater the sacrifice, the better for their situation. These are handled by a ‘lottery’ system.
-- The murders Hlin are talking about are separate from the sanctioned murders.
+Niles, able to communicate with the creature due to his training with elemental entities, spoke with the mischievous spirit. As the sun dipped below the horizon, the group finally escort and manage to coax the elusive Chwinga back to its woodland home.
+
+Morning in Bryn Shander brought with it the mundane tasks of correspondence and communal meals. Niles diligently penned letters to his distant family, a quiet ritual amidst the bustling tavern where the group gathered. Over breakfast, murmurs of unsettling rumors drifted their way—talk of murders haunting the town, linked perhaps to the local guilds, Stanch Co and Torg Co. Hlin's ominous warnings resonated in Niles’ mind as the party contemplated their next move.
+
+Deciding to divide and conquer, the group split into pairs—Niles and Jaeger set off to probe Torg, while Velys and Backbreaker ventured towards Stanch. At Torg Co, Niles and Jaeger encountered Torrga, a sharp-eyed dwarven proprietor. Niles skillfully wove tales of intrigue, capturing Torrga's interest with a story of a golden fish, and in return, gleaned valuable insights into the merchant guilds' workings before their departure towards Lac Dinneshere.
+
+The party’s paths reconverged and soon they ventured to the guard headquarters. There, they sought out Markham Southwell, the stoic leader of Bryn Shander's militia, to delve deeper into the disturbing matters plaguing the town.
+
+Amidst the town's tension lay a darker thread—whispers of sacrifices to Auril, the Frostmaiden, purportedly to appease her wrath and stave off calamity. Murders, previously unheard of, now occurred and were tied inexplicably to this chilling ritual governed by a lottery of fate. Hlin's tales of separate, unsanctioned killings cast a grim shadow over the already somber atmosphere, deepening the group's resolve to unravel Bryn Shander's mysteries before this evil claimed another victim.
 
 ## Notes
 N/A

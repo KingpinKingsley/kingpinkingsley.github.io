@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "8f57f8fa7dc55d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "619f1c16bffc2fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b823c6b65f2e79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Sessions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "820d3706a946eb7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b898c8b5495b887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784f2e322ce3631a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "923882d3860cd9bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lottery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b4e34717343755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/31 - 40/Entering Grymskalle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2418179013bb279f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "c64fb0bafc7eab8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f73afda9612e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac476d4fc601d846",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign Sessions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "909239826c9c7591",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign Sessions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dc787a77c28f17d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc94c589c24d4f7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign Sessions.md"
+              }
+            }
+          },
+          {
+            "id": "bcdc10c774a14fb4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca472aa6cc7f1023",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "9b823c6b65f2e79e",
+  "lastOpenFiles": [
+    "Session Notes/51 - 60/On-Boarding Sibylle.md",
+    "Campaign Sessions.md",
+    "2024-07-11.md",
+    "Session Notes/51 - 60/Dead to Rights.md",
+    "Session Notes/31 - 40/Ultima Weapon.md",
+    "Session Notes/31 - 40/Sunblight Stronghold 9.md",
+    "Session Notes/31 - 40/Sunblight Stronghold 8.md",
+    "Session Notes/31 - 40/Sunblight Stronghold 7.md",
+    "Session Notes/21 - 30/Sunblight Stronghold 6.md",
+    "Session Notes/21 - 30/Sunblight Stronghold 5.md",
+    "Session Notes/21 - 30/Sunblight Stronghold 4.md",
+    "Session Notes/31 - 40/A Deal with Vellynne.md",
+    "Session Notes/31 - 40/Investigating Auril.md",
+    "Session Notes/31 - 40/Setting Out.md",
+    "Session Notes/31 - 40/Whale Courier.md",
+    "Session Notes/31 - 40/Wizardly Specter.md",
+    "Session Notes/31 - 40/Entering Grymskalle.md",
+    "Session Notes/41 - 50/Trial of Preservation.md",
+    "Session Notes/41 - 50/Trial of Isolation.md",
+    "Session Notes/41 - 50/Trial of Cruelty.md",
+    "Session Notes/41 - 50/Trial of Endurance.md",
+    "Session Notes/41 - 50/A Return to Civilization.md",
+    "Session Notes/41 - 50/Red Yeti Bet.md",
+    "Session Notes/41 - 50/Netherese Tower.md",
+    "Session Notes/41 - 50/Farewell Dzaan.md",
+    "Session Notes/41 - 50/Broomson Family Reunion.md",
+    "Session Notes/51 - 60",
+    "Homebrew/Characters/Non-Player",
+    "Homebrew/Characters",
+    "Homebrew/Quests",
+    "Homebrew",
+    "Capture.png",
+    "Images/Misc. Fun/FamilyTree.PNG",
+    "Resources/Lookup Tables",
+    "Resources/NPCs",
+    "Resources/Spells",
+    "Resources/Classes/Barbarian",
+    "Resources/Classes",
+    "Untitled.canvas",
+    "0_Contents/Recap Resources/Untitled.canvas",
+    "0_Contents/Recap Resources/Recapper.canvas",
+    "Images/Locations/Maps/Bryn Shander Map.jpg",
+    "Images/Locations/Maps/Easthaven Map.jpg",
+    "Images/Locations/Towns/Bremen Logo.png",
+    "Images/Locations/Maps/Termalaine Map.jpg",
+    "Images/Locations/Maps/Targos Map.jpg",
+    "Images/Locations/Maps/Lonelywood Map.jpg",
+    "Images/Locations/Maps/Good Mead Map.jpg",
+    "Images/Locations/Maps/Dougan Map.jpg",
+    "Untitled 1.canvas"
+  ]
+}

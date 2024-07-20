@@ -21,11 +21,20 @@ tags: [niles, jaeger, backbreaker, joyelle, candor, sephek, markham, copper, san
 **Location(s):** Bryn Shander <br>
 
 ## Synopsis
-- After meeting the Sheriff, the party was signed up for the lottery within the three towns. Niles gave a fake name: Frasier. The next lottery drawing is in the next two weeks before the next time the drawing occurs.
-- Catches up to Nass to ask if she needs anything. She pauses and states that this is not yet our time to meet. He offers to help Nass but says that she’s leaving now. The party then meets the Tiefling named Avarice who Candor flirts with and immediately backs out talking to. Niles speaks with her some more and she says she’ll be in Caer-Dineval in the future if the party wants to help her.
-- The party heads to the Church of Auril to begin speaking about the sacrifices with a church acolyte. He advocates for sacrifices, and that it is not murder. He is adamant about how much good these sacrifices do, and that the three towns are doing a service because this will appease Auril over time.
-- Then the party goes to the Church of the Sun god and speak with a priest. These sun acolytes disagree with the sacrifices and their church numbers are dwindling. Mishann is the priestess. Then a man named Copper Knobberknocker asks the party to check in on a man named Macreadus out in the wilds who is trying to create a device to improve the weather. Much of this is done by Backbreaker who desired to come here.
-- Sanders Colonel, Wendy Davis, Ronaldo Donalmax. They discuss fishing for the golden fish before getting into the business of discussing the murders. Two murders in Bryn Shander, One in East Targos, and two elsewhere. Sephek is the mysterious man and bodyguard of Torrga. When Torg Co travels, they just miss the murders.
+After their unsettling meeting with Sheriff Markham Southwell, the group found themselves reluctantly signed up for a chilling lottery that determined who would be sacrificed next in the three largest towns. Niles, ever cautious, adopted the alias "Frasier" to conceal his true identity, hoping to avoid the grim fate that hung over Bryn Shander, Easthaven, and Targos.
+
+Their next encounter led them to Nass, an enigmatic figure who seemed to glide through their lives like a shadow. She cryptically declined Niles' offer of aid, hinting that their paths would cross again when the time was right, leaving the party with unanswered questions and a sense of unease.
+
+Their journey then brought them face to face with Avarice, a beguiling tiefling whose charm briefly captivated Candor before he awkwardly retreated. Niles, more composed, engaged Avarice in conversation, learning of her plans to visit Caer-Dineval—a potential future ally, if their paths were to cross again.
+
+Seeking answers about the sacrifices to Auril, they ventured to the Church of the Frostmaiden, where an acolyte staunchly defended the ritualistic offerings as necessary appeasement rather than cold-blooded murder. His fervent belief in the greater good these sacrifices supposedly brought clashed starkly with the party's growing unease.
+
+Turning to the Church of the Sun God, they found a contrasting perspective. Priestess Mishann and her dwindling followers spoke out against the sacrifices, their once-bright faith now overshadowed by the grim practices endorsed by the Frostmaiden's adherents.
+
+Their quest for information took an unexpected turn when Copper Knobberknocker enlisted their help to check on Macreadus, an eccentric inventor in the wilds attempting to manipulate the weather—an endeavor that piqued Backbreaker's interest and led the group deeper into the intrigue surrounding Bryn Shander.
+
+In the evening Sanders Colonel, Wendy Davis, Ronaldo Donalmax (members of Torrga's crew) joined the party for dinner. Their input helped illuminate pieces in the larger mystery that connected the murders plaguing the towns. Sephek, the mysterious bodyguard of Torrga from Torg Co, emerged as a central suspect, his movements eerily synchronized with the grisly incidents haunting their investigation.
+
 
 ## Notes
 Niles' lottery name is Frasier.
